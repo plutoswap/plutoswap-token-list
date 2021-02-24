@@ -316,6 +316,14 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
+      "name": "Example BNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "symbol": "EXBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
     }
   ]
 }
