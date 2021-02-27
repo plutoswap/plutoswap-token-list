@@ -348,6 +348,22 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/plutoswap/plutoswap-token-list/main/icon/btcb.png"
+    },
+    {
+      "name": "AUTOv2",
+      "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "symbol": "AUTO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plutoswap/plutoswap-token-list/main/icon/autov2.png"
+    },
+    {
+      "name": "AUTOv2",
+      "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "symbol": "AUTO",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/plutoswap/plutoswap-token-list/main/icon/autov2.png"
     }
   ]
 }
