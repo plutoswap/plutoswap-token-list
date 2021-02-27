@@ -332,6 +332,22 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/plutoswap/plutoswap-token-list/main/apple-touch-icon.png"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plutoswap/plutoswap-token-list/main/icon/btcb.png"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/plutoswap/plutoswap-token-list/main/icon/btcb.png"
     }
   ]
 }
